@@ -1,2 +1,2 @@
 # Primeiro-site
-Meu primeiro site que está no começo
+O projeto está no começo
